@@ -35,25 +35,25 @@ Automation testing is implemented using **Selenium WebDriver with Java**, follow
 
 ## Project Structure
 
-automation
-│
-├── pom.xml
-├── testng-smoke.xml
-├── testng-regression.xml
-├── screenshots/
-│
-├── src
-│ ├── main
-│ │ └── java
-│ │ ├── base
-│ │ ├── pages
-│ │ └── utils
-│ │
-│ └── test
-│ └── java
-│ ├── tests
-│ ├── listeners
-│ └── runners
+    automation
+    │
+    ├── pom.xml
+    ├── testng-smoke.xml
+    ├── testng-regression.xml
+    ├── screenshots/
+    │
+    ├── src
+    │ ├── main
+    │ │ └── java
+    │ │ ├── base
+    │ │ ├── pages
+    │ │ └── utils
+    │ │
+    │ └── test
+    │ └── java
+    │ ├── tests
+    │ ├── listeners
+    │ └── runners
 
 
 -------------------------------------------------------
